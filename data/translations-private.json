@@ -12,19 +12,6 @@
       "android": "https://github.com/Bunuelos-Asociados/SurviveMin-1.0-ES/releases/download/1.0/survive.spanish-1.0-1788571845-release.apk"
     }
   },
-    {
-    "name": "Criminally Yours",
-    "author": "Meant to Bee Studios, Skywrite Studios, FlowersforJoy",
-    "status": "Completo",
-    "image": "./images/criminally-yours.png",
-    "description": "Eres un héroe con el poder de ver el futuro, conocido como «Oracle». Mientras proteges la ciudad del supervillano Chronos, llevas una vida normal junto a Nikolaos, tu amor de toda la vida. Sin embargo, ambos guardan un secreto que podría cambiarlo todo: Nikolaos sabe quién eres, y él es en realidad Chronos.",
-    "translationNotes": "Traducción completa, incluido el DLC. Compatible con la versión 2.1.",
-    "links": {
-      "official": "https://meant-to-bee-studios.itch.io/criminally-yours",
-      "pc": "https://drive.google.com/file/d/18UEwnZpJ9SnWC4DKngfCp2cV8RcUlco-/view?usp=drive_link",
-      "android": "https://drive.google.com/drive/folders/1pjO6PdygHoy4xNHsMJtmanmjYw7WaGv8?usp=drive_link"
-    }
-  },
  {
     "name": "Our Life: Beginnings & Always",
     "author": "GBPatch",
