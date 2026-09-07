@@ -1,0 +1,10 @@
+/* El catálogo privado no se pinta hasta que private-access.js valide el fragmento. */
+body[data-requires-secret-access="true"] .protected-content { display: none; }
+body[data-requires-secret-access="true"].access-granted .protected-content { display: block; }
+body[data-requires-secret-access="true"].access-granted .protected-content.site-header { display: flex; }
+body[data-requires-secret-access="true"].access-granted .protected-content.site-footer { display: flex; }
+.access-blocker { min-height: 100vh; display: grid; place-items: center; padding: 1.5rem; background: var(--paper); }
+.access-blocker[hidden] { display: none; }
+.access-card { width: min(100%, 440px); padding: 2.5rem; text-align: center; border-radius: 22px; background: #fffdfb; box-shadow: var(--shadow); }
+.access-card .access-mark { display: grid; place-items: center; width: 3.4rem; height: 3.4rem; margin: 0 auto 1rem; border-radius: 50%; background: var(--pink); color: var(--coffee-deep); font: 700 1.1rem Fraunces, serif; }
+.access-card h1 { margin: 0; font: 700 2rem/1.12 Fraunces, serif; }.access-card p { margin: .8rem 0 0; color: var(--muted); }

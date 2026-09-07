@@ -1,0 +1,4 @@
+# GitHub Pages serves this project below /catalogo-traducciones/.
+# If the repository name changes, update this path accordingly.
+User-agent: *
+Disallow: /catalogo-traducciones/segunda-version/

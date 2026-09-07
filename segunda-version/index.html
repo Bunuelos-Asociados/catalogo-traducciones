@@ -7,6 +7,7 @@
       name="description"
       content="Catálogo alternativo de Buñuelos & Asociados."
     />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
     <title>Buñuelos & Asociados · Catálogo</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -16,16 +17,22 @@
     />
     <link rel="stylesheet" href="../src/styles.css" />
     <link rel="stylesheet" href="../src/modal-fix.css" />
+    <link rel="stylesheet" href="../src/access.css" />
     <link rel="icon" type="image/png" href="../images/Buñuelo.png">
   </head>
   <body
+    class="access-pending"
+    data-requires-secret-access="true"
     data-catalog="../data/translations-private.json"
     data-tutorials="../data/tutorials.json"
     data-site="../data/site.json"
     data-catalog-label="Catálogo alternativo"
   >
-    <a class="skip-link" href="#catalog">Saltar al catálogo</a>
-    <header class="site-header">
+    <section id="access-blocker" class="access-blocker" aria-labelledby="access-title">
+      <div class="access-card"><div class="access-mark">B&amp;</div><h1 id="access-title">Acceso mediante enlace</h1><p>Necesitas un enlace de acceso válido para ver este catálogo.</p></div>
+    </section>
+    <a class="skip-link protected-content" href="#catalog">Saltar al catálogo</a>
+    <header class="site-header protected-content">
       <a class="brand" href="./" aria-label="Buñuelos & Asociados"
         ><span class="brand-mark"><img src="../images/Buñuelo.png" alt=""></span
         ><span>Buñuelos<br /><em>& Asociados</em></span></a
@@ -34,7 +41,7 @@
         <a href="#catalog">Catálogo</a><a href="#tutorials">Tutoriales</a>
       </nav>
     </header>
-    <main>
+    <main class="protected-content">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
           <p class="eyebrow">✦ Traducciones hechas por fans</p>
@@ -95,7 +102,7 @@
         <div id="tutorial-list" class="tutorial-list"></div>
       </section>
     </main>
-    <footer class="site-footer">
+    <footer class="site-footer protected-content">
       <p>Hecho de fans para fans.<span aria-hidden="true">♡</span></p>
       <div
         id="social-links"
@@ -121,4 +128,3 @@
     <script type="module" src="../src/app.js"></script>
   </body>
 </html>
-

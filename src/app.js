@@ -1,3 +1,5 @@
+import { validateSecretLink } from './private-access.js';
+
 // Configuración: cada HTML indica, mediante data-catalog, qué JSON cargar.
 // Para añadir novelas, edita data/translations.json (o translations-private.json); no hace falta tocar este archivo.
 const body = document.body;
@@ -71,6 +73,11 @@ function renderSocials(site) {
   elements.social.innerHTML = safeArray(site.socialLinks).filter(link => link.url).map(link => `<a href="${escapeHTML(link.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(link.label)}"><span aria-hidden="true">${escapeHTML(link.icon || '↗')}</span>${escapeHTML(link.label)}</a>`).join('');
 }
 async function start() {
+  if (body.dataset.requiresSecretAccess === 'true') {
+    const isAllowed = await validateSecretLink();
+    if (!isAllowed) return; // No se solicita translations-private.json sin enlace válido.
+    body.classList.add('access-granted');
+  }
   const [catalog, tutorials, site] = await Promise.all([loadJSON(body.dataset.catalog), loadJSON(body.dataset.tutorials), loadJSON(body.dataset.site)]);
   projects = safeArray(catalog); renderCatalog(projects); renderTutorials(safeArray(tutorials)); renderSocials(site || {}); bindInteractions();
 }
