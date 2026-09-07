@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Instalación en PC",
+    "content": "<ol><li>Entra al enlace de <strong>GitHub</strong> del parche y haz clic en el archivo <strong>.zip</strong>.</li><li>En la página del archivo, haz clic en el icono de <strong>descarga</strong> para descargar el parche.</li><li>Cuando termine la descarga, haz <strong>clic derecho</strong> sobre el archivo .zip y selecciona <strong>Extraer en...</strong>.</li><li>Dentro de los archivos extraídos encontrarás algo como<strong>hook.py</strong> y la carpeta <strong>tl</strong>.</li><li>Busca la carpeta <strong>game</strong> dentro de la carpeta del juego.</li><li>Copia los archivos extraidos directamente dentro de <strong>game</strong>.</li><li>Una vez copiados los archivos, inicia el juego normalmente.</li></ol><p>"
+  },
+  {
+    "title": "Instalación en Android",
+    "content": "<ol><li>Descarga el archivo <strong>.apk</strong> del juego desde el enlace proporcionado.</li><li>Cuando termine la descarga, abre el archivo <strong>.apk</strong> para iniciar la instalación.</li><li>Si Android solicita permiso para instalar aplicaciones desde esta fuente, habilita el permiso y continúa con la instalación.</li><li>Una vez instalada la aplicación, ábrela y comienza a jugar.</li></ol><p><strong>¡Listo!</strong> No necesitas copiar ningún archivo manualmente.</p>"
+  }
+]

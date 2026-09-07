@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Catálogo alternativo de Buñuelos & Asociados."
+    />
+    <title>Buñuelos & Asociados · Catálogo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../src/styles.css" />
+    <link rel="stylesheet" href="../src/modal-fix.css" />
+    <link rel="icon" type="image/png" href="../images/Buñuelo.png">
+  </head>
+  <body
+    data-catalog="../data/translations-private.json"
+    data-tutorials="../data/tutorials.json"
+    data-site="../data/site.json"
+    data-catalog-label="Catálogo alternativo"
+  >
+    <a class="skip-link" href="#catalog">Saltar al catálogo</a>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Buñuelos & Asociados"
+        ><span class="brand-mark"><img src="../images/Buñuelo.png" alt=""></span
+        ><span>Buñuelos<br /><em>& Asociados</em></span></a
+      >
+      <nav aria-label="Navegación principal">
+        <a href="#catalog">Catálogo</a><a href="#tutorials">Tutoriales</a>
+      </nav>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">✦ Traducciones hechas por fans</p>
+          <h1 id="hero-title">Novelas Visuales<br /><span>en español</span></h1>
+          <p class="hero-subtitle">Busca tu próxima historia.</p>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <span class="spark spark-one">✦</span
+          ><span class="spark spark-two"></span>
+          <div class="book book-back"></div>
+          <div class="book book-front"><span>♡</span><i></i><i></i><i></i></div>
+          <div class="flower">✿</div>
+        </div>
+      </section>
+      <section
+        class="catalog-section"
+        id="catalog"
+        aria-labelledby="catalog-title"
+      >
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow" id="catalog-label">Todos nuestros trabajos</p>
+            <h2 id="catalog-title">Explora el catálogo</h2>
+          </div>
+          <span id="project-count" class="project-count"></span>
+        </div>
+        <label class="search-box" for="search"
+          ><span aria-hidden="true">⌕</span
+          ><input
+            id="search"
+            type="search"
+            placeholder="Busca por título, autor o estado…"
+            autocomplete="off"
+          /><kbd>Esc</kbd></label
+        >
+        <p id="results-status" class="sr-only" aria-live="polite"></p>
+        <div id="catalog-grid" class="catalog-grid" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <span>⌕</span>
+          <p>No encontramos ninguna novela visual con esa búsqueda.</p>
+          <button class="text-button" type="button" id="clear-search">
+            Limpiar búsqueda
+          </button>
+        </div>
+      </section>
+      <section
+        class="tutorials-section"
+        id="tutorials"
+        aria-labelledby="tutorials-title"
+      >
+        <div class="tutorial-intro">
+          <p class="eyebrow">Aquí resolvemos tus dudas</p>
+          <h2 id="tutorials-title">Tutoriales</h2>
+          <p>
+            Todo lo que necesitas para comenzar a disfrutar de las traducciones.
+          </p>
+        </div>
+        <div id="tutorial-list" class="tutorial-list"></div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <p>Hecho de fans para fans.<span aria-hidden="true">♡</span></p>
+      <div
+        id="social-links"
+        class="social-links"
+        aria-label="Redes sociales"
+      ></div>
+    </footer>
+    <dialog
+      id="project-modal"
+      class="project-modal"
+      aria-labelledby="modal-title"
+    >
+      <button
+        id="close-modal"
+        class="modal-close"
+        type="button"
+        aria-label="Cerrar detalles"
+      >
+        ×
+      </button>
+      <div id="modal-content"></div>
+    </dialog>
+    <script type="module" src="../src/app.js"></script>
+  </body>
+</html>
+
