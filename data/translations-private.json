@@ -12,6 +12,45 @@
       "android": "https://github.com/Bunuelos-Asociados/SurviveMin-1.0-ES/releases/download/1.0/survive.spanish-1.0-1788571845-release.apk"
     }
   },
+    {
+    "name": "Criminally Yours",
+    "author": "Meant to Bee Studios, Skywrite Studios, FlowersforJoy",
+    "status": "Completo",
+    "image": "./images/criminally-yours.png",
+    "description": "Eres un héroe con el poder de ver el futuro, conocido como «Oracle». Mientras proteges la ciudad del supervillano Chronos, llevas una vida normal junto a Nikolaos, tu amor de toda la vida. Sin embargo, ambos guardan un secreto que podría cambiarlo todo: Nikolaos sabe quién eres, y él es en realidad Chronos.",
+    "translationNotes": "Traducción completa, incluido el DLC. Compatible con la versión 2.1.",
+    "links": {
+      "official": "https://meant-to-bee-studios.itch.io/criminally-yours",
+      "pc": "https://drive.google.com/file/d/18UEwnZpJ9SnWC4DKngfCp2cV8RcUlco-/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1pjO6PdygHoy4xNHsMJtmanmjYw7WaGv8?usp=drive_link"
+    }
+  },
+ {
+    "name": "Our Life: Beginnings & Always",
+    "author": "GBPatch",
+    "status": "Completo",
+    "image": "../images/our-life.jpg",
+    "description": "Durante unas vacaciones de verano, conoces a Cove, tu extraño y misterioso nuevo vecino. Lo que comienza como una petición de su padre para que sean amigos termina convirtiéndose en una relación que te acompañará durante muchos años. El verano terminará, pero tu historia con Cove apenas comienza.",
+    "translationNotes": "Traducción completa. Incluye todos los DLC. Compatible con la versión 1.7.1.",
+    "links": {
+      "official": "https://gbpatch.itch.io/our-life",
+      "pc": "https://drive.google.com/file/d/1y5WoQEEyu4LMC38GDm02Bo-ej8Z3kbfO/view?usp=sharing",
+      "android": "https://drive.google.com/drive/folders/1OIAIs97cZQDREf2umugJUTqoNDxaljaz?usp=drive_link"
+    }
+  },
+  {
+    "name": "Criminally Yours",
+    "author": "Meant to Bee Studios, Skywrite Studios, FlowersforJoy",
+    "status": "Completo",
+    "image": "../images/criminally-yours.png",
+    "description": "Eres un héroe con el poder de ver el futuro, conocido como «Oracle». Mientras proteges la ciudad del supervillano Chronos, llevas una vida normal junto a Nikolaos, tu amor de toda la vida. Sin embargo, ambos guardan un secreto que podría cambiarlo todo: Nikolaos sabe quién eres, y él es en realidad Chronos.",
+    "translationNotes": "Traducción completa, incluido el DLC. Compatible con la versión 2.1.",
+    "links": {
+      "official": "https://meant-to-bee-studios.itch.io/criminally-yours",
+      "pc": "https://drive.google.com/file/d/18UEwnZpJ9SnWC4DKngfCp2cV8RcUlco-/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1pjO6PdygHoy4xNHsMJtmanmjYw7WaGv8?usp=drive_link"
+    }
+  },
   {
     "name": "A Date With Death",
     "author": "Two and a Half Studios",
