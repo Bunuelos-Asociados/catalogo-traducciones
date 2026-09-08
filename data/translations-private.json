@@ -52,6 +52,19 @@
     }
   },
     {
+    "name": "Autumns Journey",
+    "author": "Apple Cider",
+    "status": "Completo",
+    "image": "../images/autumns-journey-esp.png",
+    "description": "Auralee, una aspirante a caballera del pueblo de Berri, se topa con algo inesperado durante una de sus rondas. Después de una poco elegante introducción, Kerr revela que en realidad es un Dragón de Tierra - una de las bestias míticas que habitan su mundo, Ishtera. Le guste o no, Auralee se ve envuelta en su misión para recuperar su forma dragonil. Junto con un poco de ayuda de otro dragón llamado Ilmari, su aventura comienza...",
+    "translationNotes": "Port para Android de la versión en español.",
+    "links": {
+      "official": "https://apple-cider.itch.io/autumns-journey-esp",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/AutumnsJourney_Android/releases/download/1.0/autumns.journey.apk"
+    }
+  },
+    {
     "name": "The Groom of Gallagher Mansion",
     "author": "SnaccPop Studios",
     "status": "Completo",
