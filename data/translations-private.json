@@ -39,6 +39,97 @@
     }
   },
   {
+    "name": "FFS Another Northern Duke",
+    "author": "Chthonic Chrome Studio",
+    "status": "Completo",
+    "image": "../images/ffs-another-northern-duke.png",
+    "description": "Expulsada del mundo moderno a una novela, ocupas el cuerpo de una villana, que se dirige a casarse con el bestial Duque del Norte. (¿Por qué me suena eso...) ¿Tu misión? Que se enamore de ti. Debería ser fácil, ¿no?",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": "https://chthonicchromestudio.itch.io/ffs-another-northern-duke-spicy",
+      "pc": "https://github.com/Bunuelos-Asociados/FFSAnotherNorthernDuke-ES",
+      "android": "https://drive.google.com/drive/folders/1JAFdKI6GJEuCMI6KNn4H9L2VhnTdRAyV?usp=sharing"
+    }
+  },
+  {
+    "name": "Cinderella Phenomenon",
+    "author": "Dicesuki",
+    "status": "Completo",
+    "image": "../images/cinderella-phenomenon.jpg",
+    "description": "Cuatro años después del fin de la Gran Guerra y la pérdida de su madre, la princesa heredera Lucette de Angielle sigue luchando por aceptar su nueva vida y su familia política. Fría y amarga, Lucette no reconoce el sufrimiento de quienes la rodean mientras es consumida por el dolor y el resentimiento. Pero la vida de Lucette vuelve a traspasar cuando se convierte en víctima de la Maldición de Cuento de Hadas.",
+    "translationNotes": "Port Android realizado utilizando el parche en español de [Fantome Traducciones](https://fantome-traducciones.blogspot.com/p/cinderella-phenomenon.html).",
+    "links": {
+      "official": "https://dicesuki.itch.io/cinderella-phenomenon",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/CinderellaPhenomenon_ESP_ANDROID/releases/download/1.0/Cinderella_Phenomenon_ESP.apk"
+    }
+  },
+  {
+    "name": "Seduce Me",
+    "author": "Michaela Laws",
+    "status": "Completo",
+    "image": "../images/seduce-me-the-otome.png",
+    "description": "Tras heredar la fortuna y la mansión de su abuelo, una joven se encuentra con cinco íncubos heridos que buscan refugio de un grupo de peligrosos “inadaptados”. Al descubrir su naturaleza, decide acogerlos temporalmente a cambio de que la ayuden con las tareas de la mansión. Sin embargo, pronto comenzará a preguntarse por qué llegaron al mundo humano y quiénes son aquellos que los persiguen.",
+    "translationNotes": "Port Android realizado utilizando el parche en español de [Otomespanish](https://otomespanish.wordpress.com/seduce-me/).",
+    "links": {
+      "official": "https://vamichaelalaws.itch.io/seduce-me-the-otome",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/SeduceMe_ESP_ANDROID/releases/download/1.0/Seduce_Me_ESP.apk"
+    }
+  },
+  {
+    "name": "Locked Heart",
+    "author": "Sitraxis",
+    "status": "Completo",
+    "image": "../images/locked-heart.jpg",
+    "description": "Un viaje al pueblo vecino ha desviado a Aura hacia la infame mansión encantada de los De Lockes... ¿de juguetes parlantes? Juega como Aura mientras rompe la maldición y posiblemente entabla un romance con uno de los tres osos.",
+    "translationNotes": "Port Android realizado utilizando el parche en español de [Otomespanish](https://otomespanish.wordpress.com/locked-heart-otome-espanol/).",
+    "links": {
+      "official": "https://sitraxis.itch.io/locked-heart",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/LockedHeart_ESP_ANDROID/releases/download/1.0/LockedHeart_ESP.apk"
+    }
+  },
+  {
+    "name": "Dark Nights",
+    "author": "pinlin",
+    "status": "Completo",
+    "image": "../images/darknights.jpg",
+    "description": "Vives en un pueblo pequeño y pacífico. Cada día es igual que cualquier otro; aburrido. Justo cuando deseas que ocurra algo emocionante, empiezan a ocurrir cosas extrañas, que provienen del bosque cercano. Por si fuera poco, los locales han empezado a desaparecer. Al mismo tiempo, conoces a cuatro tipos misteriosos. ¿Descubrirás la verdad antes de convertirte en el próximo objetivo?",
+    "translationNotes": "Port Android realizado utilizando el parche en español de la página [Oficial](https://pinlin.itch.io/darknights).",
+    "links": {
+      "official": "https://pinlin.itch.io/darknights",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/DarkNights_ESP_ANDROID/releases/download/1.0/DarkNight_ESP.apk"
+    }
+  },
+  {
+    "name": "The Princess of the Tower Wants a Hero",
+    "author": "Anta",
+    "status": "Completo",
+    "image": "../images/ThePrincessoftheTowerWantsaHero.jpg",
+    "description": "La princesa Lumi ha sido retenida cautiva en el castillo del señor demonio, situado en una tierra de invierno eterno. Lo odia. Hace frío, es solitario, la comida es mala y literalmente no hay nada que hacer. Lo único bueno de este sitio es el té y los aperitivos.",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": "https://ant-san.itch.io/prinhero",
+      "pc": "https://github.com/Bunuelos-Asociados/ThePrincessoftheTowerWantsaHero_ES",
+      "android": "https://github.com/Bunuelos-Asociados/ThePrincessoftheTowerWantsaHero_ES/releases/download/1.0/ThePrincessoftheTowerWantsaHero_ESP.apk"
+    }
+  },
+  {
+    "name": "Z.A.T.O. - I Love The World And Everything In It",
+    "author": "Nopanamaman",
+    "status": "Completo",
+    "image": "../images/z-a-t-o-i-love-the-world-and-everything-in-it.png",
+    "description": "URSS, 1986. Cuando Ira Grachevskaya desaparece en la ciudad cerrada de Vorkuta-5, nadie parece preocuparse, salvo la silenciosa marginada Asya Shubina. Descubre el misterio detrás de la desaparición de Ira, transmite tu señal de radio al universo y descubre por qué un pájaro pasa volando por la ventana.",
+    "translationNotes": "Port Android realizado utilizando el parche en español de [Niison](https://zatoesp.carrd.co/).",
+    "links": {
+      "official": "https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/Z.A.T.O._ESP_ANDROID/releases/download/1.0/Z.A.T.O.-.I.Love.The.World.And.Everything.In.It.apk"
+    }
+  },
+  {
     "name": "A Little Lily Princess",
     "author": "Hanako Games",
     "status": "Completo",
@@ -156,6 +247,19 @@
     }
   },
   {
+    "name": "Paguroideo",
+    "author": "areqreepy",
+    "status": "Completo",
+    "image": "../images/Paguroideo.jpg",
+    "description": "Paguroideo es una novela visual que utiliza elementos como el surrealismo y la disociación para explorar temas de alienación, identidad y acuarios, ¿no?",
+    "translationNotes": "Este parche fue realizado antes de que estuviera disponible la traducción oficial, pero nuestra traducción sigue disponible como alternativa y también está incluida en nuestro port para Android.",
+    "links": {
+      "official": "https://areqreepy.itch.io/paguroideo",
+      "pc": "https://github.com/Bunuelos-Asociados/Paguroide-ES",
+      "android": "https://github.com/Bunuelos-Asociados/Paguroide-ES/releases/download/novelaVisual/paguro.ideo-1.6-1780790211-release.apk"
+    }
+  },
+  {
     "name": "Tu No Eres La Princesa",
     "author": "Ryu_san",
     "status": "Completo",
@@ -178,7 +282,7 @@
     "links": {
       "official": "https://fantasia-kittcat.itch.io/the-kid-at-the-back-demo",
       "pc": "https://github.com/Bunuelos-Asociados/TheKidAtTheBack-ES",
-      "android": null
+      "android": "https://drive.google.com/drive/folders/17AybUtNUyLcgYsrORNmVZj3GX1dQlNWk?usp=sharing"
     }
   },
   {
@@ -218,19 +322,6 @@
       "official": "https://hereisremina.itch.io/chilling-devotion",
       "pc": "https://github.com/Bunuelos-Asociados/Chilling_DevotionDay2-ES",
       "android": "https://github.com/Bunuelos-Asociados/Chilling_DevotionDay2-ES/releases/download/novelaVisual/chilling.devotionday2-1.0-1787802067-release.apk"
-    }
-  },
-  {
-    "name": "Paguroideo",
-    "author": "areqreepy",
-    "status": "Completo",
-    "image": "../images/Paguroideo.jpg",
-    "description": "Paguroideo es una novela visual que utiliza elementos como el surrealismo y la disociación para explorar temas de alienación, identidad y acuarios, ¿no?",
-    "translationNotes": "Este parche fue realizado antes de que estuviera disponible la traducción oficial, pero nuestra traducción sigue disponible como alternativa y también está incluida en nuestro port para Android.",
-    "links": {
-      "official": "https://areqreepy.itch.io/paguroideo",
-      "pc": "https://github.com/Bunuelos-Asociados/Paguroide-ES",
-      "android": "https://github.com/Bunuelos-Asociados/Paguroide-ES/releases/download/novelaVisual/paguro.ideo-1.6-1780790211-release.apk"
     }
   },
   {
