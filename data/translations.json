@@ -219,5 +219,19 @@
       "pc": "https://drive.google.com/file/d/1kQ_Bz4P_L99aMViYdqKIXlDKQYW7qEUU/view?usp=sharing",
       "android": "https://github.com/Bunuelos-Asociados/MyDearHatcherMan-ES/releases/download/1.4/my.dear.hatchet.man_Original-1.4-1771138491-release.apk"
     }
+  },
+
+    {
+    "name": "See Thru: Need a Friend?",
+    "author": "ItsYaBoi",
+    "status": "Cancelado",
+    "image": "./images/See-Thru-Need-a-Friend.pg",
+    "description": "tu mejor amigo le gustaría llevarte a trabajar! ¡qué suerte tienes! Aunque no lo sabes... él tiene otros planes para ti....",
+    "translationNotes": "Traducción completa. Compatible con la versión 1.0 del juego.",
+    "links": {
+      "official":"https://itsyaboi328.itch.io/stnaf",
+      "pc": "https://github.com/Bunuelos-Asociados/SeeThru-ES/blob/main/SeeThru_NeedAFriend-ES.zip",
+      "android": "https://github.com/Bunuelos-Asociados/SeeThru-ES/releases/download/1.1/see.thru-1.0-1791146143-release.apk"
+    }
   }
 ]
