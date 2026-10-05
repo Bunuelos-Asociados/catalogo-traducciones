@@ -325,6 +325,32 @@
     }
   },
   {
+    "name": "14 Days With You",
+    "author": "cutiesai",
+    "status": "En desarrollo",
+    "image": "../images/14dayswithyou.jpg",
+    "description": "Después de volver a Corland Bay, las cosas han empezado a volverse más... inquietante. Tu ropa siempre parece desaparecer, pasos inquietantes resuenan por tu pasillo por la noche y, para colmo, tu vecina jura que vio a alguien escabullirse de tu apartamento mientras estabas fuera. Pero bueno... al menos el desconocido de pelo rosa que conociste en el trabajo está ahí para protegerte.",
+    "translationNotes": "Juego en desarrollo. Traducida la versión 5.0.0",
+    "links": {
+      "official": "https://cutiesai.itch.io/14dayswithyou",
+      "pc": "https://drive.google.com/file/d/1QpMjJeX8CQcLkdrTKMGE2qFgu2iBZkIM/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1FhfLpZ41NxF_uUjsN5GG54EiaWk8z-ZF?usp=sharing"
+    }
+  },
+  {
+    "name": "YOU and HIM",
+    "author": "Unknown Hermit",
+    "status": "En desarrollo",
+    "image": "../images/you-and-him.jpg",
+    "description": "Un desconocido conocido hace autostop, por un lado, de una carretera desierta. El encuentro es potencialmente mortal. ¿Puedes sobrevivir?",
+    "translationNotes": "Juego en desarrollo. Traducido hasta el día 4.",
+    "links": {
+      "official": null,
+      "pc": "https://drive.google.com/file/d/15AN-Grhk9HvykO6CruBdtGTqYlwYgLpX/view?usp=sharing",
+      "android": "https://drive.google.com/drive/folders/1A05TqUNzWqPoPBPIAf7HzzaYsKyeWSQb?usp=sharing"
+    }
+  },
+  {
     "name": "Chilling Devotion",
     "author": "Remina",
     "status": "En desarrollo",
