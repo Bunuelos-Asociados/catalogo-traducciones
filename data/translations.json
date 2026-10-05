@@ -247,6 +247,19 @@
     }
   },
   {
+    "name": "Kingdom of Marionettes",
+    "author": "Thepipi",
+    "status": "Demo",
+    "image": "./images/kingdom-of-marionettes.png",
+    "description": "Eres un guardia de seguridad recién contratado encargado de vigilar un teatro de marionetas abandonado llamado Reino de Marionetas. Tus deberes son bastante simples. Mantener alejados a los alborotadores, limpiar el teatro y asegurarse de que ninguna marioneta desaparezca ni empiece a deambular.",
+    "translationNotes": "Traducción completa de la demo.",
+    "links": {
+      "official": "https://thepipiw.itch.io/kingdom-of-marionettes",
+      "pc": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP/releases/download/1.0/KingdomOfMarionettes_ESP.apk"
+    }
+  },
+  {
     "name": "The Kid At The Back",
     "author": "𝖋𝖆𝖓𝖙𝖆𝖘𝖎𝖆 | TealCat",
     "status": "Demo",
