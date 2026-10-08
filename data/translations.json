@@ -1,5 +1,18 @@
 [
   {
+    "name": "To Die With Ben",
+    "author": "Mitch is not disclosed",
+    "status": "Completo",
+    "image": "/images/to-die-with-ben.jpg",
+    "description": "En el juego te enfrentarás a un virus terrible que claramente estaba esperando una oportunidad para demostrar su valía. Tu objetivo principal es sobrevivir a cualquier precio.",
+    "translationNotes": "Traducción completa. Compatible con la versión 1.0 del juego.",
+    "links": {
+      "official": "https://mitch-is-not-disclosed.itch.io/to-die-with-ben",
+      "pc": "https://github.com/Bunuelos-Asociados/ToDieWithBen_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/ToDieWithBen_ESP/releases/download/1.0/ToDieWithBen_ESP.apk"
+    }
+  },
+ {
     "name": "Survive Min",
     "author": "𝐅𝐀𝐓𝐇𝐄𝐑",
     "status": "Completo",
@@ -283,6 +296,32 @@
       "official": "https://weluvxo.itch.io/date-at-the-cemetery",
       "pc": "https://github.com/Bunuelos-Asociados/DateattheCemetery-1.0-ES",
       "android": "https://github.com/Bunuelos-Asociados/DateattheCemetery-1.0-ES/releases/download/1.0/DateattheCementery.apk"
+    }
+  },
+  {
+    "name": "The Freak Circus",
+    "author": "Garula",
+    "status": "En desarrollo",
+    "image": "./images/the-freak-circus.png",
+    "description": "Trabajas en una cafetería y, un día, de camino al trabajo, el destino te lleva a cruzarte con Pierrot. Ahí es cuando comienza su obsesión. Pero no está solo, su rival de escenario decide unirse al juego, convirtiendo este retorcido baile en una competición peligrosa... todo por ti.",
+    "translationNotes": "Juego en desarrollo. Días 1 y 2 traducidos.",
+    "links": {
+      "official": "https://garula.itch.io/the-freak-circus",
+      "pc": "https://github.com/Bunuelos-Asociados/TheFreakCircus_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/TheFreakCircus_ESP/releases/download/0.2/TheFreakCircus-0.2_ESP.apk"
+    }
+  },
+ {
+    "name": "To Eat A God",
+    "author": "Soffis_mbm",
+    "status": "En desarrollo",
+    "image": "./images/to-eat-a-god.png",
+    "description": "❝Bienvenido al Jardín, un lugar usado como prueba.❞ Existen siete símbolos a los que uno debe adorar en el Jardín. Generadas por el Creador para mantener su orden y función, cada entidad representa un concepto vinculado a su creación. La marioneta que controlas se enviará como regalo para ellos, pero NO debes permitir que los personajes descubran que está conectada contigo. Actúa como si fueras uno más y, por favor, no hagas nada fuera de lo estipulado.",
+    "translationNotes": "Juego en desarrollo. Traducido hasta el acto 2.5.",
+    "links": {
+      "official": "https://soffis-mbm.itch.io/to-eat-a-god",
+      "pc": null,
+      "android": "https://github.com/Bunuelos-Asociados/ToEatAGod_ANDROID/releases/download/2.5/ToEatAGod_2.5_ESP.apk"
     }
   },
   {
