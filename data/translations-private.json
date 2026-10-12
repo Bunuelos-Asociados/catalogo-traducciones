@@ -1,4 +1,30 @@
-[
+[  
+  {
+    "name": "Rizz The Wolf",
+    "author": "𝖋𝖆𝖓𝖙𝖆𝖘𝖎𝖆 | TealCat",
+    "status": "Completo",
+    "image": "../images/cupids-kiss.png",
+    "description": "En el juego te enfrentarás a un virus terrible que claramente estaba esperando una oportunidad para demostrar su valía. Tu objetivo principal es sobrevivir a cualquier precio.",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": "https://fantasia-kittcat.itch.io/rizz-the-wolf",
+      "pc": "https://github.com/Bunuelos-Asociados/RizzTheWolf_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/RizzTheWolf_ESP/releases/download/1.0/RizzTheWolf_ESP.apk"
+    }
+  },
+  {
+    "name": "Cupid's Kiss",
+    "author": "MarySueGames",
+    "status": "Completo",
+    "image": "../images/rizz-the-wolf.png",
+    "description": "Tu Cupido designado ya ha tenido suficiente de tus tonterías, muchas gracias.",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": "https://marysuegames.itch.io/cupids-kiss",
+      "pc": "https://github.com/Bunuelos-Asociados/Cupids_Kiss_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/Cupids_Kiss_ESP"
+    }
+  },
   {
     "name": "To Die With Ben",
     "author": "Mitch is not disclosed",
@@ -307,7 +333,7 @@
     "translationNotes": "Traducción completa de la demo. Compatible con la versión NSFW 2.3.3 del juego.",
     "links": {
       "official": "https://fantasia-kittcat.itch.io/the-kid-at-the-back-demo",
-      "pc": "https://github.com/Bunuelos-Asociados/TheKidAtTheBack-ES",
+      "pc": "https://drive.google.com/file/d/1XP170flstgO5uWX_3fRr8UP6EuXGR31R/view?usp=drive_link",
       "android": "https://drive.google.com/drive/folders/17AybUtNUyLcgYsrORNmVZj3GX1dQlNWk?usp=sharing"
     }
   },
