@@ -234,19 +234,6 @@
     }
   },
   {
-    "name": "Don't Eat The Cashier",
-    "author": "DETCc",
-    "status": "Completo",
-    "image": "./images/dont-eat-the-cashier.png",
-    "description": "Acabas de conseguir un turno de noche en una gasolinera por el salario mínimo — ya es bastante inquietante. Pero tus clientes esta noche no son precisamente humanos.",
-    "translationNotes": "Traducción completa. Compatible con la versión 1.0 del juego.",
-    "links": {
-      "official": "https://detcc.itch.io/dont-eat-the-cashier",
-      "pc": "https://github.com/Bunuelos-Asociados/DontEattheCashier-ES",
-      "android": "https://github.com/Bunuelos-Asociados/DontEattheCashier-ES/releases/download/NovelaVisual/donteatthe.cashier-1.0-1776398950-release.apk"
-    }
-  },
-  {
     "name": "Binary Star Hero",
     "author": "CONCRETEPARASITE",
     "status": "Completo",
@@ -348,6 +335,19 @@
       "official": "https://weluvxo.itch.io/date-at-the-cemetery",
       "pc": "https://github.com/Bunuelos-Asociados/DateattheCemetery-1.0-ES",
       "android": "https://github.com/Bunuelos-Asociados/DateattheCemetery-1.0-ES/releases/download/1.0/DateattheCementery.apk"
+    }
+  },
+  {
+    "name": "Don't Eat The Cashier",
+    "author": "DETCc",
+    "status": "Completo",
+    "image": "./images/dont-eat-the-cashier.png",
+    "description": "Acabas de conseguir un turno de noche en una gasolinera por el salario mínimo — ya es bastante inquietante. Pero tus clientes esta noche no son precisamente humanos.",
+    "translationNotes": "Traducción completa. Compatible con la versión 1.0 del juego.",
+    "links": {
+      "official": "https://detcc.itch.io/dont-eat-the-cashier",
+      "pc": "https://github.com/Bunuelos-Asociados/DontEattheCashier-ES",
+      "android": "https://github.com/Bunuelos-Asociados/DontEattheCashier-ES/releases/download/NovelaVisual/donteatthe.cashier-1.0-1776398950-release.apk"
     }
   },
   {
