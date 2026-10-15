@@ -65,6 +65,32 @@
     }
   },
   {
+    "name": "Our Life Patreon 1",
+    "author": "GBPatch",
+    "status": "Completo",
+    "image": "../images/our_life_1.png",
+    "description": "Este Momento +18 está ambientado en algún momento después del final de la Etapa 3.",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": null,
+      "pc": "https://drive.google.com/file/d/1weQJztuCmdLuCQXsYjTEXukUGOpvHJJC/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1U6vyQhJoTev-rpHUHA1iA0R3NPJkX_Em?usp=drive_link"
+    }
+  },
+  {
+    "name": "Our Life Patreon 2",
+    "author": "GBPatch",
+    "status": "Completo",
+    "image": "../images/our_life_2.png",
+    "description": "Momento +18 ambientado en la noche de bodas",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": null,
+      "pc": "https://drive.google.com/file/d/1Rt5GqaBFvqoBnVMY7hvCYw9GvuN42tKP/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1T8ab89nFx6u4yTPViMPcTckV3cZdnCiO?usp=drive_link"
+    }
+  },
+  {
     "name": "Criminally Yours",
     "author": "Meant to Bee Studios, Skywrite Studios, FlowersforJoy",
     "status": "Completo",
@@ -322,6 +348,19 @@
       "official": "https://thepipiw.itch.io/kingdom-of-marionettes",
       "pc": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP",
       "android": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP/releases/download/1.0/KingdomOfMarionettes_ESP.apk"
+    }
+  },
+  {
+    "name": "Lurking for Love",
+    "author": "SinisterShrike",
+    "status": "Demo",
+    "image": "../images/lurking-for-love.png",
+    "description": "Te estás estableciendo en un pueblo suburbano de Texas, empezando una nueva vida para ti mismo. Últimamente, tu correo se ha estado enviando a la casa equivocada y sigue acabando en la puerta de tu vecino. O al menos, eso es lo que te dijo.",
+    "translationNotes": "Traducción completa de la demo.",
+    "links": {
+      "official": "https://sinistershrike.itch.io/lurking-for-love-demo",
+      "pc": "https://github.com/Bunuelos-Asociados/LurkingforLove_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/LurkingforLove_ESP/releases/download/1.0/Lurkingforlove_ESP.apk"
     }
   },
   {

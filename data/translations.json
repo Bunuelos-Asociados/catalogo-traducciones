@@ -299,6 +299,19 @@
     }
   },
   {
+    "name": "Lurking for Love",
+    "author": "SinisterShrike",
+    "status": "Demo",
+    "image": "./images/lurking-for-love.png",
+    "description": "Te estás estableciendo en un pueblo suburbano de Texas, empezando una nueva vida para ti mismo. Últimamente, tu correo se ha estado enviando a la casa equivocada y sigue acabando en la puerta de tu vecino. O al menos, eso es lo que te dijo.",
+    "translationNotes": "Traducción completa de la demo.",
+    "links": {
+      "official": "https://sinistershrike.itch.io/lurking-for-love-demo",
+      "pc": "https://github.com/Bunuelos-Asociados/LurkingforLove_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/LurkingforLove_ESP/releases/download/1.0/Lurkingforlove_ESP.apk"
+    }
+  },
+  {
     "name": "The Kid At The Back",
     "author": "𝖋𝖆𝖓𝖙𝖆𝖘𝖎𝖆 | TealCat",
     "status": "Demo",
