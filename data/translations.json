@@ -1,5 +1,18 @@
 [
   {
+    "name": "Insomnia",
+    "author": "Mcryx",
+    "status": "Completo",
+    "image": "./images/insomnia-jeff-the-killer.png",
+    "description": "Juegas como un estudiante de instituto de género neutral cuya vida cotidiana toma un giro oscuro tras quedar atrapado con la gente equivocada. Mientras se difunden rumores inquietantes, te encuentras cara a cara con un hombre misterioso.",
+    "translationNotes": "Traducción completa. Compatible con la versión 1.1 del juego.",
+    "links": {
+      "official": "https://mcryxstudios.itch.io/insomnia-jeff-the-killer",
+      "pc": "https://github.com/Bunuelos-Asociados/Insomnia_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/Insomnia_ESP/releases/download/1.0/Insomnia_ESP.apk"
+    }
+  },
+  {
     "name": "Rizz The Wolf",
     "author": "𝖋𝖆𝖓𝖙𝖆𝖘𝖎𝖆 | TealCat",
     "status": "Completo",
