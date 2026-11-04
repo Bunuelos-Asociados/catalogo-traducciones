@@ -221,16 +221,16 @@
     }
   },
   {
-    "name": "A Date With Death",
+    "name": "A Date With Death + DLC'S",
     "author": "Two and a Half Studios",
     "status": "Completo",
     "image": "../images/a-date-with-death.png",
     "description": "Siempre has tenido una suerte inexplicable para escapar de la muerte. Pero cuando un misterioso programa aparece en tu ordenador y la propia Parca viene a reclamar tu alma, comienzas a cuestionarte el destino que os une. ¿Podrás resistirte a su encanto o terminarás enamorándote de quien está destinado a llevarte consigo?",
-    "translationNotes": "Traducción completa del juego base. Compatible con la versión 2.5.",
+    "translationNotes": "Traducción completa del juego con DLCS. Compatible con la versión 2.5.",
     "links": {
       "official": "https://twoandahalfstudios.itch.io/a-date-with-death",
-      "pc": "https://github.com/Bunuelos-Asociados/ADateWithDeath-ES",
-      "android": "https://github.com/Bunuelos-Asociados/ADateWithDeath-ES/releases/download/2.5/ADate.WithDead-ES.apk"
+      "pc": "https://drive.google.com/file/d/1n4QNTyw3rCenDJNEQevPfF-oSqgszkHo/view?usp=sharing",
+      "android": "https://drive.google.com/drive/folders/15QIXGsMR6Koo3ZwUegX4T_kTaQgYGyeE?usp=drive_link"
     }
   },
     {
