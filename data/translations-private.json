@@ -1,4 +1,17 @@
 [  
+    {
+    "name": "Locked Love",
+    "author": "Diositareme",
+    "status": "Completo",
+    "image": "../images/lockedlove.png",
+    "description": "En esta historia, Ren mantuvo cautivo al protagonista y, con el tiempo, concibieron una hija. Mientras tanto, Ren continúa con sus actividades oscuras.",
+    "translationNotes": "Es el juego original recuperado.",
+    "links": {
+      "official": null,
+      "pc": "https://drive.google.com/file/d/1tlL_ZkQGv_LRMfJJU8-CkJnykdM-2rEe/view?usp=drive_link",
+      "android": "https://drive.google.com/drive/folders/1o53Mt0nIs6nFpqDijlMQ9mbPL08bqiiF?usp=sharing"
+    }
+  },
   {
     "name": "Insomnia",
     "author": "Mcryx",
