@@ -356,11 +356,11 @@
     "status": "Demo",
     "image": "../images/kingdom-of-marionettes.png",
     "description": "Eres un guardia de seguridad recién contratado encargado de vigilar un teatro de marionetas abandonado llamado Reino de Marionetas. Tus deberes son bastante simples. Mantener alejados a los alborotadores, limpiar el teatro y asegurarse de que ninguna marioneta desaparezca ni empiece a deambular.",
-    "translationNotes": "Traducción completa de la demo.",
+    "translationNotes": "Traducción completa del dia 2.",
     "links": {
       "official": "https://thepipiw.itch.io/kingdom-of-marionettes",
       "pc": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP",
-      "android": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP/releases/download/1.0/KingdomOfMarionettes_ESP.apk"
+      "android": "https://github.com/Bunuelos-Asociados/KingdomOfMarionettes_ESP/releases/download/1.0/KingdomOfMarionettes-2.0_ESP.apk"
     }
   },
   {
