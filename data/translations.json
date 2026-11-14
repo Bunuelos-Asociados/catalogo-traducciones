@@ -1,5 +1,18 @@
 [
   {
+    "name": "Rotten Dinner",
+    "author": "wormeow",
+    "status": "Completo",
+    "image": "./images/rotten-dinner.jpg",
+    "description": "Es una noche preciosa. ¿No lo compartes conmigo durante una cena encantadora? ¿Cuál es el plato principal, cariño? Oh, es un secreto...",
+    "translationNotes": "Traducción completa.",
+    "links": {
+      "official": "https://wwwormeow.itch.io/rotten-dinner",
+      "pc": "https://github.com/Bunuelos-Asociados/RottenDinner_ESP",
+      "android": "https://github.com/Bunuelos-Asociados/RottenDinner_ESP/releases/download/1.0/RottenDinner_ESP.apk"
+    }
+  },
+  {
     "name": "Insomnia",
     "author": "Mcryx",
     "status": "Completo",
