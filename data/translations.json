@@ -29,7 +29,7 @@
     "name": "Rizz The Wolf",
     "author": "𝖋𝖆𝖓𝖙𝖆𝖘𝖎𝖆 | TealCat",
     "status": "Completo",
-    "image": "/images/rizz-the-wolf.png",
+    "image": "./images/rizz-the-wolf.png",
     "description": "Es San Valentín y estás a punto de confesarle tu amor al Lobo Solitario más popular. La única pregunta es si estará dispuesto a aceptarte.",
     "translationNotes": "Traducción completa.",
     "links": {
@@ -42,7 +42,7 @@
     "name": "Cupid's Kiss",
     "author": "MarySueGames",
     "status": "Completo",
-    "image": "/images/cupids-kiss.png",
+    "image": "./images/cupids-kiss.png",
     "description": "Tu Cupido designado ya ha tenido suficiente de tus tonterías, muchas gracias.",
     "translationNotes": "Traducción completa.",
     "links": {
@@ -55,7 +55,7 @@
     "name": "To Die With Ben",
     "author": "Mitch is not disclosed",
     "status": "Completo",
-    "image": "/images/to-die-with-ben.jpg",
+    "image": "./images/to-die-with-ben.jpg",
     "description": "En el juego te enfrentarás a un virus terrible que claramente estaba esperando una oportunidad para demostrar su valía. Tu objetivo principal es sobrevivir a cualquier precio.",
     "translationNotes": "Traducción completa. Compatible con la versión 1.0 del juego.",
     "links": {
